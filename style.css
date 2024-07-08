@@ -1,0 +1,28 @@
+body{
+    text-align: center;
+    width: 100%;
+    font-family:sans-serif;
+    margin-top: 15%;
+}
+.container{
+    width: 25%;
+    margin: auto;
+    border: 2px solid black;
+    border-radius: 30px ;
+    background-image: url(image.jpg);
+}
+button{
+    width: 150px;
+    font-size: medium;
+    font-weight: bold;
+    height: 50px;
+    color: white;
+    border: none;
+    border-radius: 8px;
+}
+#increment-btn{
+    background: darkred;
+}
+#save-btn{
+    background: darkgreen;
+}
